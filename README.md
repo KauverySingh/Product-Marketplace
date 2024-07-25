@@ -149,7 +149,7 @@ php artisan db:seed
 
 Additional Information
 
-- Frontend Directory: Contains the source code for the React.js or Vue.js application.
+- Frontend Directory: Contains the source code for the React.js application.
   
 - Backend Directory: Contains the Laravel PHP application code.
   
