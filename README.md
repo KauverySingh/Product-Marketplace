@@ -1,4 +1,4 @@
-Full-Stack Product Marketplace Application
+# Full-Stack Product Marketplace Application
 
 
 Welcome to the Full-Stack Product Marketplace Application! This project demonstrates a full-stack e-commerce platform featuring a modern frontend, robust backend, and integrated functionalities.
